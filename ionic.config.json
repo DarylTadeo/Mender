@@ -1,0 +1,7 @@
+{
+  "name": "Mender",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
