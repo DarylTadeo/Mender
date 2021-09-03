@@ -11,15 +11,15 @@ $secondary-color: #333298;
 }
 
 .centered-container {
-  width: 90%;
+  width: 97%;
 }
 
 .title {
-  font-size: 54px;
+  font-size: 34px;
   font-family: "Ubuntu", sans-serif;
   color: $base-color;
   text-align: center;
-  margin-top: 200px;
+  margin-top: 75px;
   margin-bottom: 5px;
 }
 
@@ -30,6 +30,29 @@ $secondary-color: #333298;
   font-family: "Open Sans", sans-serif;
 }
 
-.primary-button {
-  margin-top: 20px;
+.secondary-button {
+  border-radius: 50%;
+  background-color: #333298;
+  color: white;
+  border: 2px solid 333298;
+  box-shadow: 4px 4px 6px 0 rgba(0, 0, 0, 0.1), -4px -4px -6px #3b3aaf;
+}
+
+.footer {
+  margin-top: 50px;
+  font-size: 14px;
+  font-family: "Open Sans", sans-serif;
+  letter-spacing: 0.5;
+  font-weight: 600;
+  color: gray;
+  text-align: center;
+}
+
+.footer-copyright {
+  margin-top: 0;
+  font-size: 14px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  color: gray;
+  text-align: center;
 }

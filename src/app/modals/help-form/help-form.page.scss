@@ -11,25 +11,10 @@ $secondary-color: #333298;
 }
 
 .centered-container {
-  width: 90%;
+  width: 95%;
 }
 
-.title {
-  font-size: 54px;
-  font-family: "Ubuntu", sans-serif;
-  color: $base-color;
-  text-align: center;
-  margin-top: 200px;
-  margin-bottom: 5px;
-}
-
-.sub-title {
-  text-align: center;
-  margin-top: 0;
-  font-size: 24px;
+.help-form {
+  font-size: 16px;
   font-family: "Open Sans", sans-serif;
-}
-
-.primary-button {
-  margin-top: 20px;
 }
